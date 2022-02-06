@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://plexion.s-ul.eu/9ARbAK41">
+  <img width="300px" src="https://plexion.dev/img/brand/Blue.png" alt="logo">
 </p>
-
----
-
-recommended to be viewed over on [plexion.dev](https://plexion.dev)
+<p align="center">
+  <strong>plexion central + minecraft datapacks</strong>
+</p>
