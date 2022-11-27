@@ -8,4 +8,4 @@ here are some of the highlights:
 - [**vip**](https://github.com/plex1on/vip): Defend your team's VIP while killing the others. If your VIP dies, your team is eliminated.
 - [**death swap**](https://github.com/plex1on/death-swap): Set-up traps to kill your opponent as they're randomly swapped. Last player standing wins.
 
-..and many more available on [**plexion.dev!**](https://plexion.dev)
+..and many more available on [**plexion.dev**](https://plexion.dev)!
