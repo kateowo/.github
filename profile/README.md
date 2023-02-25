@@ -1,4 +1,4 @@
-# <img width="240px" src="https://plexion.dev/img/brand/Blue.png" alt="logo">
+# plexion
 welcome to the plexion 'organisation', where i store all my minecraft-related projects.
 
 here are some of the highlights:
